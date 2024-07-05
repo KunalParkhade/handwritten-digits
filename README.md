@@ -1,4 +1,7 @@
 # MNIST Classification
+<br>
+![image](https://github.com/KunalParkhade/mnist_class/assets/113717557/28cf2abd-0961-4187-a6b9-ae93587601b6)
+
 
 This repository contains code and resources for classifying the MNIST dataset, which is often considered the "Hello World" of machine learning. The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0-9), with each image being 28x28 pixels.
 
