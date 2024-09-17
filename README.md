@@ -20,8 +20,8 @@ To run the code in this repository, you'll need the following:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/KunalParkhade/mnist_class.git
-    cd mnist_class
+    git clone https://github.com/KunalParkhade/handwritten-digits.git
+    cd handwritten-digits
     ```
 
 2. Install the required packages:
