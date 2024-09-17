@@ -1,4 +1,4 @@
-# MNIST Classification
+# Handwritten Digits Classification
 <br>![pr_vs_recall](https://github.com/KunalParkhade/mnist_class/blob/main/images/precision_vs_recall_plot.png)
 
 
