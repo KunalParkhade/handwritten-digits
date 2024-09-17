@@ -20,7 +20,7 @@ To run the code in this repository, you'll need the following:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/mnist_class.git
+    git clone https://github.com/KunalParkhade/mnist_class.git
     cd mnist_class
     ```
 
